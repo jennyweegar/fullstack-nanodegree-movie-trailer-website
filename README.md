@@ -1,6 +1,5 @@
 # Fullstack-Nanodegree-Movie-Trailer-Website
-##Movie Trailer Website:
-    Movie Trailer Website is a script written to produce a static website which displays
+##Movie Trailer Website:Movie Trailer Website is a script written to produce a static website which displays
     6 different movies titles and poster images. You may click on the poster
     of each movie and the youtube trailer will play for the respective movie
     on the same web page.
