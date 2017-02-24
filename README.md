@@ -4,9 +4,9 @@ Movie Trailer Website is a script written to produce a static website which disp
 
 ## Contents:
 fresh_tomatoes.py
-media.py
-entertainment_center.py
-readme.md
+    media.py
+    entertainment_center.py
+    readme.md
 
 ## Requirements:
 Python 2.x (or) GitHub
